@@ -52,13 +52,13 @@ Make sure you have the following installed:
 2. Navigate into the project directory
 
 ```bash
-    cd geoland
+    cd Geoland-V2
 ```
 
 3. Install the dependencies:
 
 ```bash
-    cd pip install -r requirements.txt
+    cd pip install -r Backend/requirements.txt
 ```
 
 ## Contributing
