@@ -58,7 +58,7 @@ Make sure you have the following installed:
 3. Install the dependencies:
 
 ```bash
-    cd pip install -r Backend/requirements.txt
+    pip install -r Backend/requirements.txt
 ```
 
 ## Contributing
